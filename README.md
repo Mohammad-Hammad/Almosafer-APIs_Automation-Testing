@@ -1,0 +1,1 @@
+A Java-based automation testing project using Rest Assured framework to validate GET and POST APIs for the Almosafer platform. The project focuses on dynamic data handling, response validation with reporting
