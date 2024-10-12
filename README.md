@@ -34,8 +34,6 @@ IDE: IntelliJ IDEA for development and testing.<br>
 
 ### To Run the project with a Different Test Runner:<br>
 
-Use the following command from the Cmd: MVN clean test -Dfilename=testNG_File_name.xml<br>
-Example: MVN clean test -Dfilename=regression_testng.xml<br>
 
 --------------------------------------------------
 
