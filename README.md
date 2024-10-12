@@ -27,7 +27,8 @@ IDE: IntelliJ IDEA for development and testing.<br>
 
 --------------------------------------------------
 ## Project Architecture: <br>
-![Selenium_web_project_Arch](https://user-images.githubusercontent.com/38497405/232030946-225e3cfa-295a-441c-a742-c5cb84c9884c.png)
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/9c7b0e94-684f-440a-829d-6b6b35f53619">
+
 
 --------------------------------------------------
 
