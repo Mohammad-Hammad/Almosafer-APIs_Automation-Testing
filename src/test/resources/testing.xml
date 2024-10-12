@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Almosafer APIs Test Suite" verbose="1">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"/>
+    </listeners>
+
+    <test name="Flight APIs">
+        <groups>
+            <run>
+                <include name="FlightAPIs"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.almosafer.APIs_Test"/>
+        </classes>
+    </test>
+    <!-- -->
+    <test name="Hotel APIs">
+        <groups>
+            <run>
+                <include name="HotelAPIs"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.almosafer.APIs_Test"/>
+        </classes>
+    </test>
+
+    <test name="Activity APIs">
+        <groups>
+            <run>
+                <include name="ActivityAPIs"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.almosafer.APIs_Test"/>
+        </classes>
+    </test>
+</suite>
