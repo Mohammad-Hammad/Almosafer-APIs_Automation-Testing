@@ -27,14 +27,20 @@ IDE: IntelliJ IDEA for development and testing.<br>
 
 --------------------------------------------------
 ## Project Architecture: <br>
+- `src/main/java`: Contains the main Java classes and logic.<br>
+- `src/test/java`: Contains the test scripts for API automation.<br>
+- `testng.xml`: Configuration file for running TestNG tests.<br>
 <img width="441" alt="image" src="https://github.com/user-attachments/assets/9c7b0e94-684f-440a-829d-6b6b35f53619">
 
 
 --------------------------------------------------
 
-### To Run the project with a Different Test Runner:<br>
-
-
+### Installation and setup:<br>
+1. Clone the repository: <br>
+git clone https://github.com/your-username/almosafer-api-automation-testing.git <br>
+2. Navigate to the project directory: <br>
+cd almosafer-api-automation-testing <br>
+3. Install dependencies using Maven: <br>
 --------------------------------------------------
 
 Number Of Modules: 3 <br>
