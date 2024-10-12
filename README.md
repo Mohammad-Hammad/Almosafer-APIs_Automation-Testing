@@ -1,8 +1,3 @@
-<img width="1791" alt="Screenshot 2024-10-13 at 12 47 16 AM" src="https://github.com/user-attachments/assets/475e95e3-5a45-483f-a069-7c7a52381798">
-
-
-
-
 # Almosafer-APIs_Automatio-Testing
 A Java-based automation testing project using Rest Assured framework to validate GET and POST APIs for the Almosafer platform. The project focuses on dynamic data handling, response validation with reporting
 #### Project website link: https://Almosafer.com/en <br>
