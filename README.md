@@ -46,7 +46,7 @@ Total test case: 5 <br>
 > project root -> test-output-> emailable-report.html<br>
 
 ### Sample TestNG Run Screenshot <br>
-<img width="358" alt="image" src="https://github.com/user-attachments/assets/3f1473f1-ddf6-43ab-9192-d343575f7e8c">
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/3f1473f1-ddf6-43ab-9192-d343575f7e8c"> <br>
 ### Sample Report Screenshot <br>
 <img width="1791" alt="Screenshot 2024-10-13 at 12 47 16 AM" src="https://github.com/user-attachments/assets/ac2c9095-124e-4d8c-b075-b5d6afe1fab8">
 
