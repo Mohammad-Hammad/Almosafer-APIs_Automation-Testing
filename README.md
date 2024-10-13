@@ -53,6 +53,6 @@ Total test case: 5 <br>
 ----------------------------------------------------------
 
 ## Project Related Info:<br>
-This project is basically a demo test API automation project for almosafer website where I have to navigate to https://www.almosafer.com/en and automate any GET & POST API from flights/hotels/Activities module(In total 2 APIs i.e. GET & POST). .<br>
+This project is basically a demo test API automation project for almosafer website where I have to navigate to https://www.almosafer.com/en to automate any GET & POST API from flights/hotels/Activities module(In total 2 APIs i.e. GET & POST). .<br>
 
 I have done TestNG integration in this project. to show the report and for the general conditions, such as that the dates should be returned dynamically and add the token to some of the request headers based on the selected module
